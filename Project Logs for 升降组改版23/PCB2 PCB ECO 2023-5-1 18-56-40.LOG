@@ -1,0 +1,9 @@
+Added Component: Designator=M1(M3-MountSlot)
+Added Component: Designator=M2(M3-MountSlot)
+Added Component: Designator=M3(M3-MountSlot)
+Added Component: Designator=M4(M3-MountSlot)
+Added Member To Class: ClassName=Sheet1 Member=Component M1 MountHole
+Added Member To Class: ClassName=Sheet1 Member=Component M2 MountHole
+Added Member To Class: ClassName=Sheet1 Member=Component M3 MountHole
+Added Member To Class: ClassName=Sheet1 Member=Component M4 MountHole
+Added Room: Name=Sheet1
