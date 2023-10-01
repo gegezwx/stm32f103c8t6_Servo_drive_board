@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=Sheet1 Member=M1
-Removed Member From Class: ClassName=Sheet1 Member=M2
-Removed Member From Class: ClassName=Sheet1 Member=M3
-Removed Member From Class: ClassName=Sheet1 Member=M4
-Change Component Comment : Designator=CH1 Old Comment=CH340G New Comment=CH341
-Change Component Designator: OldDesignator=SS54 NewDesignator=SS2
-Added Pin To Net: NetName=VCC-IN Pin=SS2-1
-Added Pin To Net: NetName=VCC-IN Pin=SW1-2
-Added Room: Name=Sheet1
